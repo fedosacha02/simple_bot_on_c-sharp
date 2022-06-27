@@ -1,0 +1,5 @@
+/root/C#/myBot/obj/Debug/net6.0/myBot.csproj.AssemblyReference.cache
+/root/C#/myBot/obj/Debug/net6.0/myBot.GeneratedMSBuildEditorConfig.editorconfig
+/root/C#/myBot/obj/Debug/net6.0/myBot.AssemblyInfoInputs.cache
+/root/C#/myBot/obj/Debug/net6.0/myBot.AssemblyInfo.cs
+/root/C#/myBot/obj/Debug/net6.0/myBot.csproj.CoreCompileInputs.cache
